@@ -4,5 +4,6 @@ Israel SOuto dos Santos aluno impacta
 Análise e Desenvolvimento de Sistemas
 
 #Chuck Norris
-#Will is meat
+#Felipe Neto
 #Jhonny Depp
+#Chloe Grace moretz
